@@ -1,4 +1,4 @@
-;; -*- coding: utf-8 -*-
+sji;; -*- coding: utf-8 -*-
 ;(defvar best-gc-cons-threshold gc-cons-threshold "Best default gc threshold value. Should't be too big.")
 
 ;; Added by Package.el.  This must come before configurations of
@@ -83,9 +83,9 @@
   (require 'init-crontab)
   (require 'init-markdown)
   (require 'init-erlang)
-  (require 'init-javascript)
+ ;; (require 'init-javascript)
   (require 'init-org)
-  (require 'init-css)
+  ;;(require 'init-css)
   (require 'init-python-mode)
   (require 'init-haskell)
   (require 'init-ruby-mode)
@@ -93,7 +93,7 @@
   (require 'init-elisp)
   (require 'init-yasnippet)
   ;; Use bookmark instead
-  (require 'init-cc-mode)
+;;  (require 'init-cc-mode)
   (require 'init-gud)
   (require 'init-linum-mode)
   ;; (require 'init-gist)
